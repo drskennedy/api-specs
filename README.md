@@ -7,5 +7,6 @@ This repo includes a number of RESTful API specification files for a particular 
 * [Original NetIM Core API Spec](specs/core_swagger.json)
 * [Modified NetIM Core API Spec](specs/core_swagger_v3.yaml)
 
-## Steps to Build API MCP client and MCP server for the NetIM API service
-* [Medium article](https://medium.com/ai-advances/lessons-learnt-preparing-an-enterprise-class-api-spec-to-be-mcp-friendly-fcae549e0ea6?sk=ca9c0207ac6293dbd83abd4f6d5c7502)
+## Steps to Build API MCP client and MCP server
+* [Medium article with steps for NetIM API server](https://medium.com/ai-advances/lessons-learnt-preparing-an-enterprise-class-api-spec-to-be-mcp-friendly-fcae549e0ea6)
+* [Medium article with steps for generic RESTful API service](https://medium.com/ai-advances/liberating-api-access-using-agentic-mcp-system-powered-by-a-local-llm-209efc94642e)
